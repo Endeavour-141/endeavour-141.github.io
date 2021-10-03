@@ -1,0 +1,49 @@
+body{
+    margin: 0;
+    padding: 0!important;
+}
+.page-header{
+    display: flex;
+}
+.page-title{
+    font-size: 3em;
+}
+.home-nav{
+
+}
+.home-nav a{
+    margin-left: 5em;
+}
+.home-main{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.home-search{
+    align-items: center;
+    
+}
+.home-intro-div{
+    width: 60%;
+}
+.invert-explain{
+    word-wrap: normal;
+}
+.card-demo{
+    height: 30%;
+}
+.home-main2{
+    margin-top: 2em;
+    padding-top: 2em;
+    background-image: url("images/game1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.home-main2 div{
+    color: rgb(12, 12, 12);
+    
+}
+.home-main2 img{
+    
+}
